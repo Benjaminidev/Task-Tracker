@@ -67,7 +67,6 @@ En caso de tener un error, tambien lo manejamos con en los otros estados.
 
 
 
-
 # Delete
 
 Este metodo nos permite eliminar cualquier tarea que hayamos terminado. Para utilizarlo debemos colocar el comando "delete" + el ID de la tarea que deseemos eliminar, ya sea porque la hemos duplicado por error o porque la hemos terminado y no queremos tenerla en la lista de tareas de nuestro programa.
@@ -77,3 +76,5 @@ Este metodo nos permite eliminar cualquier tarea que hayamos terminado. Para uti
 
 Si tuvieramos un error, este tambien se maneja de la misma manera para evitar problemas con una alerta por parte de la consola.
 ![Captura de pantalla 2024-10-24 222047](https://github.com/user-attachments/assets/9cbc76f0-ae49-4080-9c09-22c7ccd73164)
+
+https://roadmap.sh/projects/task-tracker
